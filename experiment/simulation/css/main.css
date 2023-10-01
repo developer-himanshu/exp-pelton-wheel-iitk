@@ -178,8 +178,22 @@ td{
     border-radius: 5px;
     background-color: transparent;
     grid-area: area3;
-    padding: 10px 0;
+    padding: 7px 0;
 
+}
+
+
+#weightSelect{
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    border: solid #080808 3px;
+    height: 130%;
+    align-items: center;
+    border-radius: 5px;
+    background-color: transparent;
+    grid-area: area3;
+    padding: 7px 0;
 }
 
 .flow-rate-slider{
